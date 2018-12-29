@@ -1,7 +1,1 @@
-*.pyc
-*~
---pycache--
-mve
-db.sqlite3
-/static
-.DS_Store
+ae7ff0f87a5faceac7c57cd188ac42d2dd1ba217
